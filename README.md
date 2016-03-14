@@ -8,8 +8,14 @@ $('.element').krillGallery({options});
 ###Options
 
 breakPoint
+
 slidePadding
+
 buttonWidth
+
 slideWidth
+
 centerMode
+
 buttonWidth
+
